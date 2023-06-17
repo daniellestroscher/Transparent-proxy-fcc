@@ -1,4 +1,4 @@
-# Hardhat Project Using Transparnent Proxy
+# Hardhat Project Using Transparent Proxy
 
 1. Upgrade Box => BoxV2
 2. Proxy => Box
